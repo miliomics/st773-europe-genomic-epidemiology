@@ -1,0 +1,5 @@
+Running: amrfinder -V
+Software directory: '/home/georgios/.conda/envs/amrfinder/bin/'
+Software version: 3.11.18
+Database directory: '/home/georgios/.conda/envs/amrfinder/share/amrfinderplus/data/2023-08-08.2'
+Database version: 2023-08-08.2
