@@ -2,8 +2,7 @@
 Data and analysis code for the genomic epidemiology of Pseudomonas aeruginosa ST773 in the European Region, 2009–2026.
 # Genomic epidemiology of Pseudomonas aeruginosa ST773 in the European Region
 
-This repository accompanies a Dispatch by Georgios Miliotis. The study analyzed
-184 ST773 genomes from 14 countries in the European Region. Recorded collection
+The study analyzed 184 ST773 genomes from 14 countries in the European Region. Recorded collection
 dates spanned 2009–2026.
 
 - `metadata/` contains the genome accession manifest and figure inputs.
